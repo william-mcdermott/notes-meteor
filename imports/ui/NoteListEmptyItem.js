@@ -2,7 +2,7 @@
 import React from 'react';
 
 const NoteListEmptyItem = () => {
-  return <p>No notes to show</p>
+  return <p className="empty-item">No notes to show</p>
 };
 
 export default NoteListEmptyItem;

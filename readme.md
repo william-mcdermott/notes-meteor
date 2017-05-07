@@ -7,7 +7,7 @@ This is a notes application built on meteor.
 This app requires you to have meteor installed on your machine. Then you can clone the repo and run the following:
 
 ```
-meteor npm installe
+meteor npm install
 ```
 
 ```
